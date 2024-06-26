@@ -96,7 +96,7 @@ background-color: #2e2f42;
         color: #2e2f42;
         text-transform: capitalize;
 }
-.team .team-list-item{
+.team .team-list-item {
     background-color: #FFFFFF;
 }
 .team .team-names {
@@ -106,7 +106,6 @@ background-color: #2e2f42;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
-        background-color: #FFFFFF;
 }
 .team .team-text {
         font-size: 16px;
