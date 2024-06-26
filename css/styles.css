@@ -96,6 +96,9 @@ background-color: #2e2f42;
         color: #2e2f42;
         text-transform: capitalize;
 }
+.team .team-list-item{
+    background-color: #FFFFFF;
+}
 .team .team-names {
         font-weight: 500;
         font-size: 20px;
