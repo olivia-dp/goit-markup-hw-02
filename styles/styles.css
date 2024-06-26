@@ -32,7 +32,6 @@ color: #4d5ae5;
 }
 
 .contacts .contacts-link {
-        font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -63,6 +62,7 @@ background-color: #2e2f42;
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #fff;
+        cursor: pointer;
 }
 .hero .button-hero:hover,
 .hero .button-hero:focus {
@@ -79,7 +79,6 @@ background-color: #2e2f42;
         color: #2e2f42;
 }
 .advantages .advantages-list-text {
-font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -102,7 +101,6 @@ font-weight: 400;
         color: #2e2f42;
 }
 .team .team-text {
-    font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -125,15 +123,14 @@ font-weight: 400;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.down-menu {
-        background-color: #2e2f42;
-}
 .portfolio .projects-text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+.down-menu {
+        background-color: #2e2f42;
 }
 .down-menu-text {
     font-weight: 400;
