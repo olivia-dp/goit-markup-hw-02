@@ -124,7 +124,7 @@ background-color: #2e2f42;
     color: #2e2f42;
     text-transform: capitalize;
 }
-.portfolio-list-item {
+.portfolio .portfolio-list-item {
     background-color: #FFFFFF
 }
 .portfolio .projects-names {
